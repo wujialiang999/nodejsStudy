@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a8fba3-7f70-434e-8175-5e371d388b9d" name="Default Changelist" comment="" />
+    <list default="true" id="76a8fba3-7f70-434e-8175-5e371d388b9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/了不起的Nodejs/ch06/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/了不起的Nodejs/ch06/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/了不起的Nodejs/ch06/webServer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +16,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QUarxhBStxe7EooMwuiCE6Ygu7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -37,15 +48,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.second.js">
+  <component name="RunManager" selected="Node.js.index.js">
     <configuration name="first.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/了不起的Nodejs/ch05/first.js" working-dir="$PROJECT_DIR$/了不起的Nodejs/ch05">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/了不起的Nodejs/ch06">
       <method v="2" />
     </configuration>
     <configuration name="second.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="second.js" working-dir="$PROJECT_DIR$/了不起的Nodejs/ch05">
       <method v="2" />
     </configuration>
+    <configuration name="webServer.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="webServer.js" working-dir="$PROJECT_DIR$/了不起的Nodejs/ch06">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.webServer.js" />
         <item itemvalue="Node.js.second.js" />
         <item itemvalue="Node.js.first.js" />
       </list>
@@ -66,10 +85,25 @@
       <workItem from="1567837570990" duration="858000" />
       <workItem from="1567838444056" duration="270000" />
       <workItem from="1567838728662" duration="5327000" />
+      <workItem from="1567845637036" duration="168000" />
+      <workItem from="1568011622903" duration="4297000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
