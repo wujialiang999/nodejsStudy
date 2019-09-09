@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76a8fba3-7f70-434e-8175-5e371d388b9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/了不起的Nodejs/ch06/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/了不起的Nodejs/ch06/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/了不起的Nodejs/ch06/webServer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="76a8fba3-7f70-434e-8175-5e371d388b9d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +81,16 @@
       <workItem from="1567838444056" duration="270000" />
       <workItem from="1567838728662" duration="5327000" />
       <workItem from="1567845637036" duration="168000" />
-      <workItem from="1568011622903" duration="4297000" />
+      <workItem from="1568011622903" duration="4577000" />
     </task>
+    <task id="LOCAL-00001" summary="第六章-TCP">
+      <created>1568016162116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568016162116</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第六章-TCP" />
+    <option name="LAST_COMMIT_MESSAGE" value="第六章-TCP" />
   </component>
 </project>
